@@ -1,6 +1,6 @@
 <?php
 
-$servername = "php.localhost";  // Nombre del servidor (generalmente 'localhost')
+$servername = "localhost";  // Nombre del servidor (generalmente 'localhost')
 $username = "root";         // Tu usuario de MySQL (por defecto es 'root' en local)
 $password = "";             // Contraseña de tu base de datos (deja vacío si no tiene)
 $dbname = "seminariophp";  // Nombre de la base de datos a la que te conectarás
