@@ -6,5 +6,7 @@
 use App\Controllers\RegistroController; // Uso del controlador
 
 $app->post('/registro', [RegistroController::class, 'registro']);
+$app->post('/login', [RegistroController::class, 'login']);
+
 
 ?>

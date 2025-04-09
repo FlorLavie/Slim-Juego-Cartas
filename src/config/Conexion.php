@@ -1,6 +1,7 @@
 <?php
 
 // conexion a base de datos usando PDO
+// reutilizar la clase
 
 namespace App\Config;
 

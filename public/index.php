@@ -11,6 +11,7 @@ $app->addRoutingMiddleware();
 
 // Rutas  
 require __DIR__ . '\..\src\Routes\Registro.php';// Ruta de registro
+require __DIR__ . '\..\src\Routes\Login.php';// Ruta de registro
 
 
 
